@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.github.gotetu.jhipster_showcase",
+      "nativeLanguage": "ja"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "monolith",
+    "baseName": "jhipsterShocase",
+    "packageName": "com.github.gotetu.jhipster_showcase",
+    "packageFolder": "com/github/gotetu/jhipster_showcase",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NzZiMzhlYmZlOGM0NmU0YzhlMWQ2OTQ3YjE5ODk2ODUxNDlhNzlkMmY5OWJlMDQxOTE1NWQwNDVkZDlhZWE4NmViOTg1YzhhNzlmZjQzMjU0NmJkZThlZDU3ZjRhZjA3NjM1NTBkYWEyMTk1OThiN2JmNjM0NTk2Yzk4MDU4OGQ=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1594907482353,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "ja",
+    "languages": ["ja"],
+    "blueprints": []
+  }
+}
